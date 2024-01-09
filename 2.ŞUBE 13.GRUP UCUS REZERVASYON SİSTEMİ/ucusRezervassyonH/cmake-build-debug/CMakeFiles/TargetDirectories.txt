@@ -1,0 +1,3 @@
+C:/Users/90546/CLionProjects/ucusRezervassyonH/cmake-build-debug/CMakeFiles/ucusRezervassyonH.dir
+C:/Users/90546/CLionProjects/ucusRezervassyonH/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/90546/CLionProjects/ucusRezervassyonH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
